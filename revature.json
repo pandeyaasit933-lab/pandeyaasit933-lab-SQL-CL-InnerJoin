@@ -1,0 +1,15 @@
+{
+  "type": "java",
+  "testFiles": [
+    {
+      "path": "src/test/java/InnerJoinTest.java",
+      "testCases": [
+        {
+          "methodName": "testActivityInnerJoin1",
+          "label": "Validates successful inner join operation",
+          "description": "Checks that the the inner join statement was properly executed by comparing the results against the expected output."
+        }
+      ]
+    }
+  ]
+}
